@@ -1,0 +1,26 @@
+# ==========================================================
+#        SkinChanger - Configurações de Armazenamento
+# ==========================================================
+
+# Defina as credenciais para conexão com o banco de dados MySQL.
+# Recomenda-se o uso de MySQL para sincronização entre servidores (BungeeCord).
+MySQL:
+  host: '127.0.0.1'
+  port: 3306
+  database: 'minecraft'
+  user: 'root'
+  password: ''
+  
+  # Configurações avançadas de performance
+  options:
+    # Use SSL apenas se o seu host exigir (geralmente false para localhost)
+    useSSL: false
+    # Tempo máximo que uma conexão pode ficar inativa antes de ser fechada (em segundos)
+    timeout: 30
+    # Prefixo das tabelas (útil para organizar múltiplos plugins no mesmo DB)
+    table_prefix: 'skinchanger_'
+
+# Mensagens relacionadas ao banco de dados
+messages:
+  no_connection: "§c[Skin] Não foi possível conectar ao MySQL. Verifique a config!"
+  data_saved: "§aSua skin foi salva com sucesso no banco de dados."

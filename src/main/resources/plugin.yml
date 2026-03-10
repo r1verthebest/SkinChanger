@@ -1,0 +1,21 @@
+name: SkinChanger
+version: 1.0
+author: r1ver
+description: Sistema avançado de troca de skins com suporte a MySQL e biblioteca.
+main: me.r1ver.skin.bukkit.Skin
+api-version: 1.13
+commands:
+  skin:
+    description: Comando principal para gerenciar sua skin.
+    # Aliases permitem que o jogador use /skins ou /setskin
+    aliases: [skins, setskin, mudarskin]
+    usage: "§cUse /skin <nick|atualizar>"
+
+permissions:
+  skinchanger.use:
+    description: Permite ao jogador mudar sua skin para um nick específico.
+    # 'op' significa que quem é OP tem a permissão por padrão
+    default: op
+  skinchanger.admin:
+    description: Permite recarregar as configurações do plugin.
+    default: op
