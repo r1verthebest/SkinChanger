@@ -1,5 +1,5 @@
 # ==========================================================
-# BIBLIOTECA DE SKINS - NeymarSkins
+# BIBLIOTECA DE SKINS - SkinChanger
 # Adicione novas skins aqui sem precisar mexer no código!
 # ==========================================================
 
@@ -40,5 +40,5 @@ skins:
     value: "ewogICJ0aW1lc3RhbXAiIDogMTcwNjcwMjUyNTgyMSwKICAicHJvZmlsZUlkIiA6ICIyN2I1ZTdjNzVkMDQ0NWY1YWRiZWI1NjM0MTg5ZDgxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJqZWZmcm94IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5MWU0ZGIwYTJlYWJjNWI2ZjlmNmRjYTQ2NzRjYTBkMGQ5ZDc3MTUzNTdmMGMxYTUwMTZiMTYzODU2OGIwZmQiCiAgICB9CiAgfQp9"
     signature: "gI5pq6f3s59RNouWQIIb6HWKiGGkmiXpRZbOSDWqAZp249ep3Tvxi1VG12ehlVzJprc7IqNXPR5oYw1Rs+GCS/nk+LoWaJ1Q6q4m37ZhKB2ZI+zWGkViHA+ft0sic2amhEwqiCHMIbB5K0sWEpp2I+9W3zR5/7MLCb7K3S3S3A9ncbLATAI0n0bkScnBGaBY7OtoFAV/SvtERe+sDU4wdzg5y3LIjqrFMWDH9djsXf8Z9mlBfXdxBOPP85ffr5z52hHEQipVuO2zotaqitW0+2Cm+YTHuxZN86X/fkZsJwLP0ysCDEjJhhUnzKD+O7OHbhnwcMIlpDlmP/rNmv0hZ09gbM8OweoFEKaJyTayj7K1gHl42+ijw6b0jtoILJtxdIRN5EeR2sQ5bAjh0WAGNjzf+IDGaSTkIJTlTTOu4zJ6THRlb82EUxBPJw/TxcAa15AWZFhga51E5i08EDbSLLTL10drYSwB7aU820UKk3HlUS941V5tFhD2WXPFj7snp4Ry3io1I2E7dPr1az/+MtTwHy+fw+r42NATM53noIAcb85RRGN0Ap+A7vmdHkab/0rrL6PQ2Yuc1ML40rPb2TEV3D2tM4pzmyjbHpfhwSMfZxD3lKG5AL3ZRlyCiBkdWauLg5Ju4004xE73FX5y/pfkedwX0bgJLzgVV6KJ2Pw="
 
-# DICA SÊNIOR: Para pegar o Value e Signature de qualquer skin, 
+# Para pegar o Value e Signature de qualquer skin, 
 # use o site https://sessionserver.mojang.com/session/minecraft/profile/UUID?unsigned=false
